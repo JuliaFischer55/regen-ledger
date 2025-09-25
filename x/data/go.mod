@@ -1,6 +1,6 @@
 module github.com/regen-network/regen-ledger/x/data/v3
 
-go 1.21
+go 1.23
 
 require (
 	cosmossdk.io/api v0.3.1
@@ -22,7 +22,7 @@ require (
 	golang.org/x/crypto v0.21.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20240123012728-ef4313101c80
 	google.golang.org/grpc v1.62.1
-	google.golang.org/protobuf v1.33.0
+	google.golang.org/protobuf v1.36.9
 	gotest.tools/v3 v3.5.1
 )
 
