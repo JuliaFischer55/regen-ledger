@@ -11,7 +11,7 @@ require (
 	github.com/cosmos/cosmos-proto v1.0.0-beta.5 // indirect
 	github.com/cosmos/cosmos-sdk v0.47.12
 	github.com/cosmos/cosmos-sdk/orm v1.0.0-alpha.12.0.20240514101554-56648741cbd6
-	github.com/cosmos/gogoproto v1.4.10 // NOTE: v1.4.11+ is not compatible with sdk v0.47
+	github.com/cosmos/gogoproto v1.7.0 // NOTE: v1.4.11+ is not compatible with sdk v0.47
 	github.com/gogo/protobuf v1.3.3
 	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.4
