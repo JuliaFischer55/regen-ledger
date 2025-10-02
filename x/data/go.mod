@@ -1,6 +1,6 @@
 module github.com/regen-network/regen-ledger/x/data/v3
 
-go 1.21
+go 1.23
 
 require (
 	cosmossdk.io/api v0.3.1
@@ -22,7 +22,7 @@ require (
 	golang.org/x/crypto v0.21.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20240123012728-ef4313101c80
 	google.golang.org/grpc v1.62.1
-	google.golang.org/protobuf v1.33.0
+	google.golang.org/protobuf v1.36.10
 	gotest.tools/v3 v3.5.1
 )
 
@@ -90,7 +90,7 @@ require (
 	github.com/golang/glog v1.2.0 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/btree v1.1.2 // indirect
-	github.com/google/go-cmp v0.6.0 // indirect
+	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/google/orderedcode v0.0.1 // indirect
 	github.com/gorilla/handlers v1.5.1 // indirect
 	github.com/gorilla/websocket v1.5.0 // indirect
